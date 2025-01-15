@@ -23,7 +23,7 @@
 </ol>
 <h3 id="csdtaio">How to Use</h3>
 <ol id="10muwz">
-<li id="aholkuc">Save the script to a file, e.g., <code id="9i702es">ocr_reader.py</code>.</li>
+<li id="aholkuc">Save the script to a file, e.g., <code id="9i702es">library.py</code>.</li>
 <li id="n02ytjl">Update the <code id="41nw0cp">tesseract_executable_path</code> variable if required.</li>
 <li id="o14vbvi">Replace <code id="7vugayb">example_image.jpg</code> with your <strong>image path</strong>.</li>
 <li id="hnx47i8">Run the script to see OCR results using different preprocessing methods:
